@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Confetti & Co. — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-map.png" alt="This season's parties"><br><sub>This season's parties</sub></td><td width="50%"><img src="assets/screenshot-plan.png" alt="Seating the guests"><br><sub>Seating the guests</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-play2.png" alt="The party, live"><br><sub>The party, live</sub></td><td width="50%"><img src="assets/screenshot-end.png" alt="A night to remember"><br><sub>A night to remember</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
